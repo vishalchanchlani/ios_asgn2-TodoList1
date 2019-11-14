@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EC55653F214D78A8003383B8 /* Chantal */ = {
+		EC55653F214D78A8003383B8 /* to-do */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EC556552214D78A9003383B8 /* Build configuration list for PBXNativeTarget "Chantal" */;
+			buildConfigurationList = EC556552214D78A9003383B8 /* Build configuration list for PBXNativeTarget "to-do" */;
 			buildPhases = (
 				EC55653C214D78A8003383B8 /* Sources */,
 				EC55653D214D78A8003383B8 /* Frameworks */,
@@ -120,7 +120,7 @@
 			);
 			dependencies = (
 			);
-			name = Chantal;
+			name = "to-do";
 			productName = Chantal;
 			productReference = EC556540214D78A8003383B8 /* VC TodoList.app */;
 			productType = "com.apple.product-type.application";
@@ -153,7 +153,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EC55653F214D78A8003383B8 /* Chantal */,
+				EC55653F214D78A8003383B8 /* to-do */,
 			);
 		};
 /* End PBXProject section */
@@ -372,7 +372,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EC556552214D78A9003383B8 /* Build configuration list for PBXNativeTarget "Chantal" */ = {
+		EC556552214D78A9003383B8 /* Build configuration list for PBXNativeTarget "to-do" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EC556553214D78A9003383B8 /* Debug */,
