@@ -27,9 +27,7 @@ class TasksController: UITableViewController {
     @IBAction func back(_ sender: UIBarButtonItem) {
         
         //exit(0);
-        return();
-       
-        
+        //return();
         }
     
     
